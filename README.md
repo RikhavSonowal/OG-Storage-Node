@@ -7,7 +7,7 @@
 
 | Component   | Minimum Requirement |
 |-------------|---------------------|
-| **RAM**     | 8 GB                |
+| **RAM**     | 32 GB                |
 | **Storage** | 500 GB              |
 | **CPU**     | 8 Core              |
 
